@@ -1,0 +1,109 @@
+
+.aboutUs-body
+{
+
+  width: 100%;
+  height: fit-content;
+  max-height: fit-content;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0.4rem;
+  margin-bottom: 2rem;
+    
+}
+
+
+.flexbox-container
+{
+    display: flex;
+    justify-content: start;
+    flex-direction: row;
+    width: 85%;
+    
+}
+
+#aboutUs-h1
+{
+    margin-right: 2rem;
+    font-size:48pt;
+    text-align: center;
+}
+
+#aboutUs-p
+{
+    margin-right: 2rem;
+    font-size:20pt;
+    text-align: center;    
+}
+
+.mainTxt
+{
+    margin-right: 2rem;
+    font-size:13pt;
+    text-align: center;  
+}
+
+
+.dumbell
+{
+    width: 700px;
+    height: 500px;
+}
+
+.aboutUs-icon
+{
+    width: 200px;
+    height: 200px;
+    padding-bottom: 10px;
+    border: 2px solid black;
+}
+
+
+.flexbox-item
+{
+    min-width: 200px;
+    margin: 5px;
+    background-color: white;
+}
+
+.flexbox-item-1
+{
+    min-height: 100px;
+    min-width: 700px;
+    
+}
+
+.flexbox-item-2
+{
+    min-height: 200px;
+    text-align: center;
+    padding: 30px;   
+}
+
+
+.flexbox-item-3
+{
+    width:100%;
+    min-height: 200px;
+    min-width: 200px;
+    text-align: center;
+    padding: 10px;
+}
+
+.flexbox-item-4
+{
+    width:100%;
+    text-align: center;
+    padding: 10px;
+    
+}
+
+.flexbox-item-5
+{
+    width:100%;
+    text-align: center;
+    padding: 10px; 
+}
